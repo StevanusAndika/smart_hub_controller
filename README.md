@@ -6,7 +6,7 @@ Aplikasi Flutter untuk mengontrol ESP8266 melalui koneksi WiFi Access Point.
 
 Aplikasi ini menyediakan antarmuka pengguna yang elegan untuk mengontrol perangkat ESP8266 yang berjalan dalam mode Access Point. Dengan aplikasi ini, Anda dapat dengan mudah menyalakan dan mematikan LED onboard ESP8266 melalui koneksi WiFi langsung.
 
-![Tampilan Utama Aplikasi](https://github.com/user-attachments/assets/8b9d3b6c-5f5f-4d0c-9d0f-1b3d6a8b3e1a)
+
 
 ## ✨ Fitur
 
@@ -69,7 +69,7 @@ Pastikan ESP8266 Anda telah diprogram dengan kode yang sesuai:
    - `GET /led/on` - untuk menyalakan LED
    - `GET /led/off` - untuk mematikan LED
 
-![Diagram Koneksi ESP8266](https://github.com/user-attachments/assets/8a4f5b6f-6d6a-4c3c-9b8c-0d3b4c5d6e7a)
+
 
 ## 📷 Tampilan Aplikasi
 
